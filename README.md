@@ -1,4 +1,3 @@
-# Web-Scraping-Chatbot
 # AI-Powered Web Scraping Chatbot
 
 This project is a chatbot that interacts with a given website URL and answers user queries using the ChatGPT API. The chatbot scrapes the website, processes the content, and provides relevant responses based on user inputs.
@@ -59,6 +58,8 @@ Ensure you have Python 3.8+ installed and set up a virtual environment.
 ├── .env             # Environment variables file (not committed)
 ```
 
-## License
-This project is open-source and available under the MIT License.
+## Screenshot
+![image](https://github.com/user-attachments/assets/4db4bd4b-ed58-4ab4-b5ef-23b97f04d6e5)
 
+
+![AI-Powered Q&A with RAG](image.png)
